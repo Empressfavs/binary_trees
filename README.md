@@ -1,16 +1,16 @@
-A binary tree is a tree data structure in which each node can have at most two children, which are referred to as the left child and the right child. 
+Binary Tree Project
+About
+Welcome to the Binary Tree Project! This project is a collaborative effort by Favour and Kabiru to implement a binary tree data structure in C.
 
-The topmost node in a binary tree is called the root, and the bottom-most nodes are called leaves. A binary tree can be visualized as a hierarchical structure with the root at the top and the leaves at the bottom.
+Description
+A binary tree is a hierarchical data structure in which each node has at most two children, referred to as the left child and the right child. Binary trees are commonly used in computer science for tasks such as searching, sorting, and organizing data efficiently.
 
-Binary trees have many applications in computer science, including data storage and retrieval, expression evaluation, network routing, and game AI. They can also be used to implement various algorithms such as searching, sorting, and graph algorithms.
+Goals
+Implement basic binary tree operations such as insertion, deletion, and traversal.
+Explore advanced binary tree concepts such as balancing algorithms.
+Develop a comprehensive understanding of binary trees and their applications.
+Contributions
+Contributions to this project are welcome! Whether you're interested in adding new features, fixing bugs, or optimizing code, feel free to get involved. Check out the CONTRIBUTING.md file for more information on how to contribute.
 
-Representation of Binary Tree:
-Each node in the tree contains the following:
-
-Data
-Pointer to the left child
-Pointer to the right child
-Binary Tree
-Binary Tree
-
-In C, we can represent a tree node using structures. In other languages, we can use classes as part of their OOP feature. Below is an example of a tree node with integer data.
+Usage
+To use the binary tree implementation in your own projects, simply clone this repository and include the necessary files in your project directory. Refer to the documentation for detailed instructions on how to instantiate and utilize binary trees in your code.
